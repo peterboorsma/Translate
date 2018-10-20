@@ -9,6 +9,8 @@ pages:
     name: Pages
     singular_name: Page
     fields:
+        locale:
+            type: locale
         title:
             type: text
             class: large
